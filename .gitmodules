@@ -1,0 +1,3 @@
+[submodule "Sources/libkeccak/keccak-tiny"]
+	path = Sources/libkeccak/keccak-tiny
+	url = git@github.com:coruus/keccak-tiny.git
